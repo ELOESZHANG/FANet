@@ -11,5 +11,8 @@ Download the RGBT dataset here. []
 
 ## For inference
 1. Download the previously trained model here.[]
-2. Evaluate the model using RGBT_test.py.
-3. Download the results of our work.[]
+2. Change the path in RGBT_test.py.
+3. Evaluate the model using RGBT_test.py.
+
+## Results
+Download the results of our work.[]
