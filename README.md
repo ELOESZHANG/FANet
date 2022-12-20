@@ -2,5 +2,14 @@
 RGB-T salient object detection
 
 ## Dataset
-Download the CPPID dataset here. [https://pan.baidu.com/s/1cBGJGWx6as2WjOVNFFcbOw?pwd=zc8i 
-Key：zc8i]
+Download the RGBT dataset here. []
+
+## For training
+1. Download the RGBT dataset and put it under the folder datasets.
+2. Change the path in train.py.
+3. Train model using train.py
+
+## For inference
+1. Download the previously trained model here.[]
+2. Evaluate the model using RGBT_test.py.
+3. Download the results of our work.[]
