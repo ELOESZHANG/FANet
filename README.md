@@ -22,4 +22,4 @@ key:3vab]
 Download the results of our work.[https://pan.baidu.com/s/1Hek5JugRgsptBPkm9UegFw
 key:aiiz]
 
-![image](https://github.com/ELOESZHANG/FANet/blob/main/img_demo/results.png)
+![image](https://github.com/ELOESZHANG/FANet/blob/main/img_demo/result.png)
