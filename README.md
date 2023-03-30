@@ -4,7 +4,8 @@ The main purpose of RGB-T salient object detection (SOD) is to fully integrate a
 ![image](https://github.com/ELOESZHANG/FANet/blob/main/img_demo/network.png)
 
 ## Dataset
-Download the RGBT dataset here. []
+Download the RGBT dataset here. [https://pan.baidu.com/s/1Dwk8Gbbdtltpk0JwoOrmfA 
+key:d8ap]
 
 ## For training
 1. Download the RGBT dataset and put it under the folder datasets.
