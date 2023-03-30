@@ -13,9 +13,11 @@ key:d8ap]
 3. Train model using train.py
 
 ## For inference
-1. Download the previously trained model here.[]
+1. Download the previously trained model here.[https://pan.baidu.com/s/1Okoa-CCTQObEg3jp8E_H0g
+key:3vab]
 2. Change the path in RGBT_test.py.
 3. Evaluate the model using RGBT_test.py.
 
 ## Results
-Download the results of our work.[]
+Download the results of our work.[https://pan.baidu.com/s/1Hek5JugRgsptBPkm9UegFw
+key:aiiz]
